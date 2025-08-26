@@ -12,9 +12,6 @@ A comprehensive mobile payment solution built with Flutter that enables secure t
 - **Secure Transactions**: End-to-end encryption and PCI DSS compliance
 - **Cross-Platform**: Native performance on both Android and iOS
 - **Real-time Processing**: Instant payment confirmation and receipt generation
-- **Razorpay Integration**: Complete integration with India's leading payment gateway
-- **Transaction History**: Complete payment records and analytics
-- **Refund Management**: Easy refund processing and status tracking
 - **Receipt Generation**: Automatic email and SMS receipts
 
 ## 🛠️ Built With
