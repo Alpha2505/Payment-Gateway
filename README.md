@@ -25,17 +25,6 @@ A comprehensive mobile payment solution built with Flutter that enables secure t
 - **Platform**: Android & iOS
 - **IDE**: Android Studio
 
-## 📱 Usage
-
-### Making a Payment
-
-1. **Select Items/Services**: Choose products or services to purchase
-2. **Choose Payment Method**: Select from available payment options
-3. **Enter Details**: Input payment information securely
-4. **Confirm Transaction**: Review and confirm payment details
-5. **Process Payment**: Secure payment processing through gateway
-6. **Receive Confirmation**: Get instant payment confirmation and receipt
-
 ### Supported Payment Methods
 
 - **💳 Cards**: Visa, MasterCard
